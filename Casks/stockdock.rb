@@ -7,6 +7,12 @@ cask "stockdock" do
   desc "Free macOS menu bar app to track stocks and portfolios in real time"
   homepage "https://github.com/simonsruggi/StockDock"
 
+  livecheck do
+    url :url
+    strategy :github_latest
+  end
+
+  auto_updates true
   depends_on macos: :sonoma
 
   app "StockDock.app"
