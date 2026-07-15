@@ -1,6 +1,6 @@
 cask "stockdock" do
-  version "1.8.1"
-  sha256 "a716b2d683acdaa7db8d36466a90e91449fb25d0f85873947740dbc3c233730e"
+  version "1.8.2"
+  sha256 "2f383b3e477fee2462c5a96367873c68b2b417c0e3c5a08ff121206a5c1ff4eb"
 
   url "https://github.com/simonsruggi/StockDock/releases/download/v#{version}/StockDock.zip"
   name "StockDock"
