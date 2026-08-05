@@ -52,3 +52,7 @@ Problems with the app itself go to the [StockDock issue tracker](https://github.
 ## License
 
 [MIT](LICENSE)
+
+---
+
+homebrew-tap is free and open source. If you find it useful, please [⭐️ star the repo](https://github.com/simonsruggi/homebrew-tap) — and if you'd like to support my open-source work, you can [💛 sponsor me on GitHub](https://github.com/sponsors/simonsruggi) or [☕️ buy me a coffee](https://buymeacoffee.com/simonsruggi). Completely optional, always appreciated. 🙏
