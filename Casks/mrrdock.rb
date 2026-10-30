@@ -1,6 +1,6 @@
 cask "mrrdock" do
-  version "1.1.2"
-  sha256 "90925878b8137f3dfe2cd2aa4a2d90cfd28b9e1da0dd9af0a787f5206fed31f7"
+  version "1.2.0"
+  sha256 "1192b3954d3a94a1433cf2480274506821a7bd5ac3ee3f2a2c97fe3810fa96f0"
 
   url "https://github.com/simonsruggi/MRRDock/releases/download/v#{version}/MRRDock.zip"
   name "MRRDock"
