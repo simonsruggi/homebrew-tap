@@ -1,6 +1,6 @@
 cask "ramdock" do
-  version "1.0.0"
-  sha256 "575ffb5c66cf71e722ca658f10647a4f5e6be66f5d3f0ffa0448773c2182e011"
+  version "1.1.0"
+  sha256 "704dc2ad3699439f619c1c34ac14adca5c07b8d7db7c2eb966b44fc45b730804"
 
   url "https://github.com/simonsruggi/RamDock/releases/download/v#{version}/RamDock.zip"
   name "RamDock"
